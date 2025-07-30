@@ -1,0 +1,301 @@
+Year,Region,Age_Group,Type_of_Violence,Reported,Police_Response,Outcome
+2022,Almaty,40-49,Physical,Yes,None,Escalated
+2022,Aktobe,18-29,Physical,No,Protective Order,Escalated
+2023,Aktobe,30-39,Emotional,No,None,Resolved
+2025,Pavlodar,30-39,Physical,No,None,Ongoing
+2022,Pavlodar,50+,Emotional,No,Protective Order,Escalated
+2022,Aktobe,18-29,Physical,No,Arrest,Ongoing
+2023,Nur-Sultan,18-29,Physical,No,None,Resolved
+2022,Aktobe,30-39,Emotional,No,None,Resolved
+2024,Nur-Sultan,40-49,Physical,No,None,Ongoing
+2024,Karaganda,40-49,Economic,No,None,Resolved
+2024,Aktobe,30-39,Physical,No,Arrest,Ongoing
+2023,East Kazakhstan,30-39,Sexual,No,None,Resolved
+2024,Aktobe,50+,Physical,No,Arrest,Escalated
+2025,Nur-Sultan,40-49,Economic,Yes,None,Escalated
+2025,Nur-Sultan,30-39,Emotional,No,None,Escalated
+2022,Nur-Sultan,40-49,Emotional,No,Protective Order,Resolved
+2024,Aktobe,18-29,Physical,No,Protective Order,Escalated
+2023,Nur-Sultan,50+,Physical,No,Protective Order,Resolved
+2024,Shymkent,40-49,Emotional,No,None,Ongoing
+2025,Almaty,18-29,Physical,No,Arrest,Resolved
+2022,Karaganda,50+,Sexual,Yes,None,Resolved
+2023,Shymkent,40-49,Sexual,Yes,Protective Order,Escalated
+2025,Karaganda,50+,Emotional,No,Protective Order,Ongoing
+2024,East Kazakhstan,50+,Physical,No,None,Resolved
+2023,Karaganda,18-29,Emotional,Yes,None,Resolved
+2024,Nur-Sultan,40-49,Physical,No,Protective Order,Escalated
+2025,Karaganda,40-49,Economic,Yes,None,Ongoing
+2024,Aktobe,30-39,Economic,Yes,Protective Order,Escalated
+2022,Almaty,30-39,Physical,No,None,Resolved
+2025,Shymkent,30-39,Physical,No,Arrest,Ongoing
+2022,Almaty,40-49,Emotional,Yes,None,Resolved
+2023,Aktobe,30-39,Physical,No,None,Ongoing
+2022,Aktobe,30-39,Emotional,No,None,Escalated
+2025,Shymkent,18-29,Physical,Yes,Protective Order,Resolved
+2024,Almaty,18-29,Physical,No,Protective Order,Resolved
+2022,Shymkent,18-29,Physical,No,None,Escalated
+2023,Almaty,40-49,Physical,No,Protective Order,Ongoing
+2023,Pavlodar,30-39,Physical,No,None,Ongoing
+2022,Almaty,30-39,Sexual,No,None,Resolved
+2024,Shymkent,50+,Economic,No,None,Resolved
+2025,Kostanay,40-49,Sexual,No,None,Escalated
+2024,Nur-Sultan,50+,Physical,Yes,None,Escalated
+2023,Kostanay,30-39,Physical,No,Protective Order,Ongoing
+2025,Kostanay,50+,Economic,Yes,None,Ongoing
+2022,Almaty,30-39,Physical,No,None,Ongoing
+2025,Almaty,18-29,Sexual,No,None,Resolved
+2024,Shymkent,30-39,Physical,No,Arrest,Resolved
+2024,Karaganda,40-49,Emotional,No,Protective Order,Ongoing
+2023,Karaganda,50+,Sexual,No,Arrest,Resolved
+2023,Pavlodar,40-49,Physical,No,Protective Order,Resolved
+2024,Shymkent,40-49,Physical,No,Arrest,Resolved
+2023,East Kazakhstan,30-39,Economic,No,None,Escalated
+2023,Aktobe,30-39,Economic,No,None,Escalated
+2025,Pavlodar,50+,Physical,No,None,Ongoing
+2022,Nur-Sultan,40-49,Physical,No,None,Escalated
+2022,Aktobe,50+,Physical,Yes,None,Escalated
+2023,Pavlodar,30-39,Sexual,No,Protective Order,Escalated
+2022,Kostanay,40-49,Emotional,No,Protective Order,Escalated
+2023,Karaganda,30-39,Sexual,No,Arrest,Escalated
+2024,Aktobe,40-49,Physical,No,None,Escalated
+2024,East Kazakhstan,30-39,Emotional,No,Protective Order,Escalated
+2023,Nur-Sultan,30-39,Emotional,No,None,Resolved
+2024,Karaganda,50+,Physical,Yes,Arrest,Escalated
+2022,East Kazakhstan,30-39,Emotional,Yes,Protective Order,Ongoing
+2025,Karaganda,18-29,Emotional,No,Arrest,Resolved
+2025,Karaganda,18-29,Sexual,No,None,Resolved
+2022,East Kazakhstan,18-29,Physical,No,Protective Order,Ongoing
+2025,Aktobe,50+,Emotional,No,Protective Order,Ongoing
+2025,Kostanay,40-49,Economic,No,Protective Order,Ongoing
+2023,Kostanay,30-39,Emotional,No,None,Escalated
+2022,Shymkent,18-29,Physical,Yes,None,Ongoing
+2025,Pavlodar,40-49,Physical,No,None,Escalated
+2022,Aktobe,30-39,Sexual,No,None,Ongoing
+2023,East Kazakhstan,30-39,Physical,Yes,None,Escalated
+2025,Shymkent,50+,Sexual,No,Protective Order,Ongoing
+2022,Nur-Sultan,40-49,Physical,No,None,Ongoing
+2024,Karaganda,30-39,Physical,No,None,Ongoing
+2024,Nur-Sultan,30-39,Emotional,Yes,Arrest,Resolved
+2022,Almaty,40-49,Sexual,Yes,None,Resolved
+2023,Shymkent,30-39,Physical,No,None,Ongoing
+2024,Shymkent,40-49,Sexual,No,Protective Order,Resolved
+2024,Nur-Sultan,40-49,Sexual,No,Arrest,Ongoing
+2025,Karaganda,18-29,Emotional,No,None,Ongoing
+2022,Almaty,30-39,Physical,No,Protective Order,Ongoing
+2022,Aktobe,50+,Physical,No,Protective Order,Ongoing
+2023,Aktobe,18-29,Emotional,No,Protective Order,Escalated
+2025,East Kazakhstan,30-39,Emotional,No,Arrest,Resolved
+2024,East Kazakhstan,30-39,Physical,No,None,Resolved
+2025,Pavlodar,18-29,Physical,No,None,Escalated
+2024,Almaty,40-49,Physical,No,None,Escalated
+2023,East Kazakhstan,40-49,Physical,No,None,Resolved
+2025,Karaganda,30-39,Emotional,No,Protective Order,Ongoing
+2024,Pavlodar,40-49,Physical,No,None,Resolved
+2024,Nur-Sultan,40-49,Sexual,No,None,Escalated
+2025,Kostanay,40-49,Sexual,No,None,Resolved
+2023,Kostanay,30-39,Physical,Yes,Protective Order,Ongoing
+2022,Almaty,40-49,Emotional,Yes,Arrest,Ongoing
+2022,Almaty,40-49,Physical,No,None,Resolved
+2024,East Kazakhstan,18-29,Physical,No,Protective Order,Escalated
+2022,Shymkent,18-29,Emotional,No,Arrest,Resolved
+2025,Karaganda,40-49,Physical,No,None,Escalated
+2025,Kostanay,40-49,Physical,No,None,Resolved
+2023,Kostanay,40-49,Physical,Yes,None,Resolved
+2025,East Kazakhstan,40-49,Physical,Yes,None,Ongoing
+2025,Nur-Sultan,40-49,Sexual,No,Protective Order,Escalated
+2023,Aktobe,18-29,Physical,Yes,None,Resolved
+2022,Almaty,18-29,Physical,No,Protective Order,Ongoing
+2025,Nur-Sultan,30-39,Physical,No,None,Escalated
+2025,East Kazakhstan,18-29,Physical,No,None,Ongoing
+2022,Nur-Sultan,30-39,Emotional,No,Protective Order,Resolved
+2024,Almaty,40-49,Physical,No,None,Ongoing
+2023,Aktobe,40-49,Physical,Yes,None,Ongoing
+2024,Nur-Sultan,50+,Physical,No,None,Ongoing
+2022,East Kazakhstan,18-29,Physical,Yes,Protective Order,Escalated
+2022,East Kazakhstan,30-39,Physical,No,Protective Order,Escalated
+2025,Almaty,30-39,Emotional,No,None,Escalated
+2025,Nur-Sultan,18-29,Emotional,No,Protective Order,Ongoing
+2022,Aktobe,18-29,Sexual,No,None,Resolved
+2023,East Kazakhstan,50+,Physical,No,None,Ongoing
+2025,Karaganda,30-39,Physical,Yes,Protective Order,Escalated
+2023,Nur-Sultan,30-39,Emotional,No,Arrest,Escalated
+2024,Almaty,30-39,Physical,No,Arrest,Ongoing
+2023,East Kazakhstan,40-49,Physical,No,Protective Order,Ongoing
+2024,Karaganda,50+,Physical,No,Arrest,Ongoing
+2022,Pavlodar,40-49,Emotional,No,None,Escalated
+2023,East Kazakhstan,50+,Physical,No,None,Resolved
+2025,Nur-Sultan,40-49,Physical,No,None,Escalated
+2023,Nur-Sultan,30-39,Sexual,No,Protective Order,Escalated
+2022,Pavlodar,50+,Economic,No,None,Escalated
+2025,Almaty,40-49,Physical,No,None,Resolved
+2022,Aktobe,50+,Emotional,No,None,Resolved
+2024,Almaty,18-29,Emotional,No,None,Resolved
+2023,Aktobe,40-49,Emotional,Yes,None,Ongoing
+2023,East Kazakhstan,50+,Physical,No,None,Ongoing
+2022,East Kazakhstan,50+,Emotional,Yes,None,Ongoing
+2024,Aktobe,40-49,Physical,No,Arrest,Ongoing
+2022,Karaganda,30-39,Physical,No,Protective Order,Resolved
+2025,Kostanay,18-29,Economic,No,Arrest,Escalated
+2025,Kostanay,40-49,Physical,No,None,Resolved
+2024,Shymkent,40-49,Sexual,No,None,Ongoing
+2022,Pavlodar,40-49,Physical,No,Protective Order,Resolved
+2023,Shymkent,40-49,Economic,No,Protective Order,Ongoing
+2023,Kostanay,50+,Sexual,No,None,Ongoing
+2022,East Kazakhstan,50+,Physical,No,Arrest,Escalated
+2025,Pavlodar,18-29,Physical,No,None,Ongoing
+2024,Aktobe,50+,Sexual,Yes,None,Resolved
+2024,Karaganda,40-49,Emotional,No,Protective Order,Escalated
+2025,Nur-Sultan,18-29,Sexual,No,None,Resolved
+2023,Shymkent,30-39,Physical,No,Protective Order,Escalated
+2025,Shymkent,50+,Emotional,No,Protective Order,Ongoing
+2022,Pavlodar,30-39,Physical,No,None,Escalated
+2024,Pavlodar,18-29,Physical,No,Arrest,Ongoing
+2022,Karaganda,40-49,Emotional,Yes,Protective Order,Resolved
+2023,Karaganda,18-29,Emotional,No,None,Resolved
+2024,Shymkent,40-49,Emotional,No,Arrest,Resolved
+2024,Shymkent,18-29,Economic,Yes,None,Resolved
+2024,Almaty,18-29,Physical,No,Protective Order,Escalated
+2022,East Kazakhstan,30-39,Physical,No,None,Resolved
+2022,Kostanay,30-39,Sexual,Yes,None,Ongoing
+2025,Nur-Sultan,30-39,Sexual,Yes,None,Escalated
+2023,Nur-Sultan,18-29,Emotional,No,Protective Order,Ongoing
+2024,East Kazakhstan,40-49,Physical,No,None,Escalated
+2023,Aktobe,30-39,Physical,No,None,Ongoing
+2022,Pavlodar,30-39,Emotional,No,None,Ongoing
+2022,Nur-Sultan,50+,Physical,Yes,Protective Order,Resolved
+2022,Pavlodar,40-49,Physical,No,Arrest,Ongoing
+2022,Kostanay,40-49,Physical,No,None,Escalated
+2025,Karaganda,50+,Physical,No,None,Ongoing
+2023,Aktobe,50+,Sexual,No,Protective Order,Escalated
+2022,Kostanay,18-29,Physical,No,Arrest,Ongoing
+2022,Shymkent,50+,Emotional,No,None,Escalated
+2022,Nur-Sultan,40-49,Physical,No,None,Ongoing
+2024,Pavlodar,40-49,Emotional,Yes,None,Resolved
+2022,Nur-Sultan,30-39,Emotional,No,None,Ongoing
+2023,Nur-Sultan,30-39,Physical,No,Protective Order,Escalated
+2024,Almaty,30-39,Sexual,Yes,None,Resolved
+2023,Kostanay,30-39,Physical,No,None,Resolved
+2025,Karaganda,40-49,Economic,No,None,Escalated
+2022,Aktobe,18-29,Sexual,No,Protective Order,Escalated
+2025,Aktobe,30-39,Physical,No,None,Escalated
+2025,Pavlodar,18-29,Economic,No,Protective Order,Escalated
+2022,Aktobe,50+,Emotional,No,Protective Order,Resolved
+2022,Karaganda,50+,Physical,No,Arrest,Resolved
+2023,Nur-Sultan,18-29,Physical,No,Protective Order,Escalated
+2022,Shymkent,50+,Emotional,No,Protective Order,Escalated
+2025,Pavlodar,50+,Emotional,Yes,None,Ongoing
+2024,Kostanay,40-49,Physical,Yes,None,Resolved
+2022,Pavlodar,50+,Physical,No,Arrest,Escalated
+2025,East Kazakhstan,40-49,Sexual,No,None,Escalated
+2023,Pavlodar,40-49,Emotional,No,None,Ongoing
+2022,Shymkent,18-29,Emotional,No,Protective Order,Escalated
+2023,Pavlodar,30-39,Physical,No,None,Escalated
+2022,Pavlodar,18-29,Physical,No,None,Escalated
+2023,Pavlodar,18-29,Emotional,No,None,Escalated
+2025,Shymkent,40-49,Sexual,No,None,Ongoing
+2023,Nur-Sultan,40-49,Physical,No,None,Resolved
+2023,Pavlodar,50+,Physical,No,None,Resolved
+2024,Nur-Sultan,40-49,Emotional,No,Protective Order,Escalated
+2024,Shymkent,40-49,Physical,Yes,Protective Order,Escalated
+2023,East Kazakhstan,18-29,Physical,No,Arrest,Escalated
+2024,East Kazakhstan,30-39,Physical,No,Protective Order,Resolved
+2024,East Kazakhstan,30-39,Physical,No,Protective Order,Resolved
+2023,Shymkent,50+,Physical,No,None,Resolved
+2022,Kostanay,18-29,Physical,No,Protective Order,Ongoing
+2022,Karaganda,50+,Economic,No,None,Ongoing
+2024,Karaganda,30-39,Physical,No,None,Resolved
+2024,Shymkent,18-29,Physical,No,Protective Order,Resolved
+2025,East Kazakhstan,40-49,Sexual,Yes,None,Resolved
+2025,Nur-Sultan,40-49,Physical,Yes,None,Escalated
+2025,Nur-Sultan,18-29,Sexual,No,None,Escalated
+2023,Shymkent,30-39,Physical,No,Protective Order,Resolved
+2022,Pavlodar,18-29,Emotional,No,Arrest,Escalated
+2022,Aktobe,50+,Physical,No,None,Escalated
+2022,Pavlodar,40-49,Physical,No,Protective Order,Escalated
+2024,Shymkent,18-29,Emotional,No,None,Escalated
+2025,East Kazakhstan,40-49,Economic,Yes,Protective Order,Ongoing
+2022,Kostanay,30-39,Emotional,No,None,Ongoing
+2025,East Kazakhstan,30-39,Emotional,Yes,None,Resolved
+2024,Kostanay,18-29,Physical,No,Protective Order,Ongoing
+2024,Shymkent,30-39,Physical,No,Protective Order,Resolved
+2025,Nur-Sultan,30-39,Sexual,Yes,None,Resolved
+2022,Pavlodar,40-49,Physical,No,None,Escalated
+2025,Pavlodar,30-39,Emotional,No,Protective Order,Ongoing
+2024,Almaty,18-29,Emotional,No,Arrest,Escalated
+2023,Almaty,18-29,Emotional,No,None,Resolved
+2023,Pavlodar,30-39,Sexual,Yes,None,Ongoing
+2024,Pavlodar,30-39,Physical,Yes,None,Ongoing
+2024,Karaganda,50+,Physical,Yes,Protective Order,Escalated
+2022,Kostanay,40-49,Emotional,No,Protective Order,Escalated
+2025,Karaganda,18-29,Economic,No,Arrest,Ongoing
+2022,Pavlodar,40-49,Emotional,No,None,Ongoing
+2023,Shymkent,40-49,Emotional,Yes,None,Resolved
+2023,East Kazakhstan,18-29,Emotional,No,Arrest,Escalated
+2023,Nur-Sultan,18-29,Physical,No,None,Ongoing
+2025,Nur-Sultan,18-29,Physical,Yes,None,Escalated
+2024,Shymkent,50+,Emotional,No,None,Resolved
+2025,Almaty,50+,Emotional,No,None,Escalated
+2023,Pavlodar,50+,Emotional,No,None,Resolved
+2024,Shymkent,40-49,Emotional,Yes,Protective Order,Escalated
+2023,Shymkent,40-49,Emotional,No,Arrest,Escalated
+2022,Almaty,18-29,Sexual,No,None,Resolved
+2025,Almaty,30-39,Emotional,No,Arrest,Ongoing
+2023,Aktobe,30-39,Physical,Yes,None,Ongoing
+2025,Karaganda,30-39,Physical,No,None,Ongoing
+2025,Shymkent,40-49,Emotional,Yes,None,Resolved
+2024,East Kazakhstan,30-39,Physical,No,None,Escalated
+2025,Karaganda,50+,Sexual,No,Arrest,Escalated
+2024,Karaganda,40-49,Physical,No,None,Ongoing
+2025,Almaty,18-29,Physical,No,None,Escalated
+2024,Almaty,18-29,Physical,No,Protective Order,Ongoing
+2024,Almaty,50+,Physical,No,Protective Order,Ongoing
+2024,Almaty,30-39,Emotional,Yes,Protective Order,Resolved
+2025,East Kazakhstan,40-49,Physical,No,Protective Order,Resolved
+2023,Nur-Sultan,30-39,Emotional,No,Arrest,Resolved
+2023,Aktobe,40-49,Physical,Yes,None,Ongoing
+2025,Shymkent,40-49,Emotional,No,Protective Order,Resolved
+2025,Kostanay,40-49,Emotional,No,None,Escalated
+2024,East Kazakhstan,50+,Physical,No,Arrest,Escalated
+2024,Almaty,40-49,Physical,No,Arrest,Escalated
+2023,Almaty,40-49,Physical,No,Protective Order,Ongoing
+2023,Karaganda,18-29,Sexual,Yes,None,Ongoing
+2025,Shymkent,30-39,Physical,No,Protective Order,Ongoing
+2022,Shymkent,40-49,Emotional,No,None,Ongoing
+2024,Shymkent,30-39,Emotional,No,Protective Order,Escalated
+2024,East Kazakhstan,18-29,Physical,No,None,Ongoing
+2024,Karaganda,40-49,Physical,No,Protective Order,Escalated
+2024,Kostanay,18-29,Emotional,No,Arrest,Ongoing
+2023,Kostanay,18-29,Sexual,Yes,Arrest,Escalated
+2024,East Kazakhstan,30-39,Economic,No,Protective Order,Ongoing
+2023,Nur-Sultan,40-49,Emotional,No,Protective Order,Escalated
+2023,Karaganda,18-29,Physical,No,None,Resolved
+2022,Shymkent,30-39,Sexual,No,None,Resolved
+2024,Pavlodar,30-39,Physical,No,Protective Order,Resolved
+2022,Shymkent,30-39,Economic,No,None,Ongoing
+2025,Shymkent,50+,Sexual,No,Arrest,Resolved
+2024,Nur-Sultan,50+,Physical,No,Protective Order,Escalated
+2025,Shymkent,50+,Physical,Yes,None,Resolved
+2025,Kostanay,40-49,Physical,No,None,Escalated
+2023,Shymkent,40-49,Emotional,No,None,Ongoing
+2022,Aktobe,40-49,Physical,Yes,None,Resolved
+2022,Kostanay,30-39,Physical,No,None,Escalated
+2022,Kostanay,40-49,Emotional,Yes,None,Ongoing
+2023,Aktobe,40-49,Sexual,No,Protective Order,Escalated
+2022,Kostanay,30-39,Physical,No,None,Ongoing
+2024,Aktobe,40-49,Sexual,No,Arrest,Resolved
+2023,Nur-Sultan,40-49,Emotional,No,Arrest,Resolved
+2022,Karaganda,40-49,Physical,No,Protective Order,Resolved
+2023,East Kazakhstan,18-29,Emotional,No,None,Escalated
+2025,East Kazakhstan,40-49,Emotional,No,None,Resolved
+2025,Kostanay,50+,Emotional,No,None,Ongoing
+2022,Almaty,50+,Physical,No,None,Ongoing
+2023,Shymkent,40-49,Sexual,No,None,Ongoing
+2025,Aktobe,30-39,Emotional,No,Protective Order,Escalated
+2024,Nur-Sultan,18-29,Emotional,No,Protective Order,Resolved
+2022,Almaty,50+,Physical,No,None,Ongoing
+2023,Karaganda,30-39,Physical,Yes,Arrest,Resolved
+2022,Aktobe,40-49,Sexual,No,None,Resolved
+2022,Almaty,30-39,Emotional,No,None,Resolved
+2025,East Kazakhstan,30-39,Physical,No,None,Escalated
+2024,Karaganda,50+,Emotional,No,Protective Order,Escalated
